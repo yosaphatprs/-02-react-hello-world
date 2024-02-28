@@ -39,7 +39,7 @@
 
 Hasil perubahan:
 
-![Hasil perubahan](../hello-world/assets-report/01.png)
+![Hasil perubahan](assets-report/01.png)
 
 Perubahan itu dapat tampil tanpa harus melakukan refresh halaman dikarenakan Next.js lebih spesifiknya react memiliki fitur hot reload.
 
@@ -47,7 +47,7 @@ Perubahan itu dapat tampil tanpa harus melakukan refresh halaman dikarenakan Nex
 
 Remix:
 
-![Remix](../hello-world/assets-report/remix.png)
+![Remix](assets-report/remix.png)
 
 Perbedaan Remix adalah
 
@@ -55,7 +55,7 @@ Tidak seperti Gatsby dan Next.js, remix menggunakan nested route untuk routingny
 
 Gatsby:
 
-![Gatsby](../hello-world/assets-report/gatsby.png)
+![Gatsby](assets-report/gatsby.png)
 
 Perbedaan Gatsby adalah
 
@@ -63,16 +63,16 @@ Gatsby ditujukan untuk mengembangkan website secara cepat dan teroptimasi. Hal i
 
 ### Jawaban Soal 4
 
-![No 4](../hello-world/assets-report/04.png)
+![No 4](assets-report/04.png)
 
 Tidak ada perubahan tampilan, karena ketika memanggil komponen, akan diperlakukan seperti kode di dalam komponen tersebut.
 
 ### Jawaban Soal 5
 
-![No 5](../hello-world/assets-report/05.png)
+![No 5](assets-report/05.png)
 
 Sama seperti nomor 4, tidak ada perubahan tampilan, karena ketika memanggil komponen MyPage yang berisi seluruh kode fungsi Home, maka akan diperlakukan seperti kode di dalam komponen tersebut.
 
 ### Jawaban Soal 6
 
-![No 6](../hello-world/assets-report/06.png)
+![No 6](assets-report/06.png)
